@@ -2,22 +2,18 @@
 
 ### 🚀 Aspiring Software Engineer | ML Enthusiast | Problem Solver
 
-I am a passionate developer currently focused on mastering **Data Structures and Algorithms** to build efficient software. I love tackling complex problems and am currently diving deep into the world of **Machine Learning**.
-
----
-
-### 🛠 My Tech Stack
-- **Languages:** C, C++, Python (Basics)
-- **Data Science:** NumPy, Pandas
-- **Web:** HTML5, CSS3, Django
-- **Tools:** Anaconda, Canva, VS Code
-
----
+I am Ruhama, an aspiring Software Engineer with a strong passion for problem-solving and building intelligent systems. Currently, I am focused on mastering the core foundations of computer science and exploring the possibilities of AI.
 
 ### 🧩 Problem Solving & Learning
+
+🌱 Currently Learning: Deepening my knowledge of Data Structures & Algorithms using C++.
+
+🤖 ML Journey: Exploring Machine Learning with Python, NumPy, and Pandas.
+
+🛠️ Skills: Proficient in C/C++, Python, and Web Basics (HTML/CSS).
+
 - 💻 Currently solving problems on **LeetCode**, **HackerRank**, and **Codeforces**.
-- 📚 Mastering **Data Structures** using **C++**.
-- 🤖 Exploring **Machine Learning** models and data preprocessing.
+
 - 🌱 Goal: To become a skilled Software Engineer with a strong foundation in AI.
 
 
