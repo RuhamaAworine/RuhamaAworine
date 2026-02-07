@@ -6,15 +6,15 @@ I am Ruhama, an aspiring Software Engineer with a strong passion for problem-sol
 
 ### 🧩 Problem Solving & Learning
 
-🌱 Currently Learning: Deepening my knowledge of Data Structures & Algorithms using C++.
+Currently Learning: Deepening my knowledge of Data Structures & Algorithms using C++.
 
 🤖 ML Journey: Exploring Machine Learning with Python, NumPy, and Pandas.
 
-🛠️ Skills: Proficient in C/C++, Python, and Web Basics (HTML/CSS).
+ Skills: Proficient in C/C++, Python, and Web Basics (HTML/CSS).
 
 - 💻 Currently solving problems on **LeetCode**, **HackerRank**, and **Codeforces**.
 
-- 🌱 Goal: To become a skilled Software Engineer with a strong foundation in AI.
+-  Goal: To become a skilled Software Engineer with a strong foundation in AI.
 
 
 
